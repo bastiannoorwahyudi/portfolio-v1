@@ -1,0 +1,40 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+
+    text-align: center;
+}
+
+img {
+    width: 200px;
+}
+
+h2 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#projects {
+    background-color: #e2edff;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #02C6C6;
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    padding-top: 6rem;
+}
